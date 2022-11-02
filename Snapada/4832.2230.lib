@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 4832.2230
+#/849703/989339/2.49/3/4/Connector
+DEF 4832.2230 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "4832.2230" 650 200 50 H V L CNN
+F2 "48322230" 650 100 50 H I L CNN
+F3 "https://ch.schurter.com/en/datasheet/typ_4832.2230.pdf" 650 0 50 H I L CNN
+F4 "Phone Connectors AUDIO SOCKET 3.5MM 2P PCB" 650 -100 50 H I L CNN "Description"
+F5 "5" 650 -200 50 H I L CNN "Height"
+F6 "SCHURTER" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "4832.2230" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "693-4832.223" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Schurter/4832.2230?qs=wwP%252BWDYHj0ZW%2F5hAS%252BjJMA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X 1 1 800 -100 200 L 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
