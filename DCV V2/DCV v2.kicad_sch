@@ -1861,12 +1861,6 @@
     (uuid ffefdfd1-c87b-44cb-bc41-63fc1f4e98dd)
   )
 
-  (text "CP-002A-ND             Power barrel connector\n486-3417-ND            3.5mm mono phone jack\nCON-SMA-EDGE-S-ND      CONN SMA JACK STR EDGE MNT\nA97553-ND              CONN BNC JACK R/A 50 OHM PCB\nPTV09A-2020F-A103-ND   POT 10K OHM 1/20W CARBON LOG"
-    (at 185.42 48.26 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2660ca94-2adf-4834-9b8d-73f1087673a4)
-  )
-
   (global_label "12V" (shape output) (at 20.955 23.495 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 16df912a-d82a-45bb-9001-583a1582c9e0)
