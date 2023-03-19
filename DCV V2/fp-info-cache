@@ -1,4 +1,4 @@
-20458450570344736
+20463488176198355
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50260,6 +50260,13 @@ Phoenix
 0
 0
 Custom_Images
+SOAREX_Eagle_Narrow
+
+
+0
+0
+0
+Custom_Images
 SOAREX_Eagle_Small
 
 
@@ -50268,6 +50275,20 @@ SOAREX_Eagle_Small
 0
 Custom_Images
 SOAREX_Eagle_Wide
+
+
+0
+0
+0
+Custom_Images
+SOAREX_Falcon_10mm
+
+
+0
+0
+0
+Custom_Images
+SOAREX_Falcon_20mm
 
 
 0
