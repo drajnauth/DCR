@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.7)"
     },
-    "CreationDate": "2024-07-20T13:04:08-04:00"
+    "CreationDate": "2024-07-22T14:21:26-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "DCV v2",
-      "GUID": "44435620-7632-42e6-9b69-6361645f7063",
+      "Name": "DCR v2",
+      "GUID": "44435220-7632-42e6-9b69-6361645f7063",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "DCV v2-F_Cu.gbr",
+      "Path": "DCR v2-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-B_Cu.gbr",
+      "Path": "DCR v2-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-F_Paste.gbr",
+      "Path": "DCR v2-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-B_Paste.gbr",
+      "Path": "DCR v2-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-F_Silkscreen.gbr",
+      "Path": "DCR v2-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-B_Silkscreen.gbr",
+      "Path": "DCR v2-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "DCV v2-F_Mask.gbr",
+      "Path": "DCR v2-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "DCV v2-B_Mask.gbr",
+      "Path": "DCR v2-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "DCV v2-Edge_Cuts.gbr",
+      "Path": "DCR v2-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
